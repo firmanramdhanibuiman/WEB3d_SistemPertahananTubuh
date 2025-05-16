@@ -1,3 +1,4 @@
+3dObject/*.glb filter=lfs diff=lfs merge=lfs -text
 *.js filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
